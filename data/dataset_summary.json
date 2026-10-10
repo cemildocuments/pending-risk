@@ -1,0 +1,42 @@
+[
+  {
+    "dataset": "adult",
+    "total": 48842,
+    "train": 26048,
+    "calibration": 6513,
+    "test": 16281,
+    "encoded_features": 105,
+    "classes": 2,
+    "ordering": "original predefined split"
+  },
+  {
+    "dataset": "bank",
+    "total": 41188,
+    "train": 20594,
+    "calibration": 6178,
+    "test": 14416,
+    "encoded_features": 53,
+    "classes": 2,
+    "ordering": "source chronological order"
+  },
+  {
+    "dataset": "electricity",
+    "total": 45312,
+    "train": 22656,
+    "calibration": 6796,
+    "test": 15860,
+    "encoded_features": 8,
+    "classes": 2,
+    "ordering": "source chronological order"
+  },
+  {
+    "dataset": "gas",
+    "total": 13910,
+    "train": 3275,
+    "calibration": 161,
+    "test": 10474,
+    "encoded_features": 128,
+    "classes": 6,
+    "ordering": "source chronological order"
+  }
+]

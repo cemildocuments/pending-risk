@@ -1,0 +1,11 @@
+{
+  "dataset": "electricity",
+  "model": "boosting",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 15860,
+  "calibration_error": 0.24205414949970572,
+  "test_error": 0.3770491803278688,
+  "test_logloss": 1.2213453390334075,
+  "elapsed_seconds": 0.37906712503172457
+}

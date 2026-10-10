@@ -1,0 +1,142 @@
+{
+  "width_reduction_independent_Coarse absolute": {
+    "estimate": 0.4711557627631241,
+    "low": 0.4698557732393529,
+    "high": 0.4725365586057202
+  },
+  "width_reduction_independent_Coarse centered": {
+    "estimate": 0.2905007598508783,
+    "low": 0.2890147470509724,
+    "high": 0.2920409029862896
+  },
+  "width_reduction_independent_Weighted envelope": {
+    "estimate": 0.012660377215674479,
+    "low": 0.010830136390031529,
+    "high": 0.014531777007216622
+  },
+  "selective_width_reduction_independent": {
+    "estimate": 0.42026619930463505,
+    "low": 0.4181674740824074,
+    "high": 0.42241524138515646
+  },
+  "width_reduction_error_slow_Coarse absolute": {
+    "estimate": 0.5530701280435241,
+    "low": 0.5505466619437162,
+    "high": 0.5555577586026297
+  },
+  "width_reduction_error_slow_Coarse centered": {
+    "estimate": 0.40269438581232175,
+    "low": 0.40061855360335547,
+    "high": 0.4048173966174913
+  },
+  "width_reduction_error_slow_Weighted envelope": {
+    "estimate": 0.015047836455010288,
+    "low": 0.013507646668596754,
+    "high": 0.016557985861410475
+  },
+  "selective_width_reduction_error_slow": {
+    "estimate": 0.549821469198038,
+    "low": 0.5469725274395656,
+    "high": 0.5526656338268195
+  },
+  "width_reduction_correct_slow_Coarse absolute": {
+    "estimate": 0.46441745590308003,
+    "low": 0.46193499087600787,
+    "high": 0.4668978541620256
+  },
+  "width_reduction_correct_slow_Coarse centered": {
+    "estimate": 0.31072453854610105,
+    "low": 0.3084943306879848,
+    "high": 0.31295530045440334
+  },
+  "width_reduction_correct_slow_Weighted envelope": {
+    "estimate": 0.008373303845244151,
+    "low": 0.00718789931560877,
+    "high": 0.009577458452192822
+  },
+  "selective_width_reduction_correct_slow": {
+    "estimate": 0.4604127741845301,
+    "low": 0.45756577788615127,
+    "high": 0.4633876460982873
+  },
+  "width_reduction_censored_Coarse absolute": {
+    "estimate": 0.5505415224343472,
+    "low": 0.5478609310524394,
+    "high": 0.553155646660293
+  },
+  "width_reduction_censored_Coarse centered": {
+    "estimate": 0.4111603528075861,
+    "low": 0.4086668777667192,
+    "high": 0.4136682849673393
+  },
+  "width_reduction_censored_Weighted envelope": {
+    "estimate": 0.014221830694596371,
+    "low": 0.012837188343675065,
+    "high": 0.015538097119586397
+  },
+  "selective_width_reduction_censored": {
+    "estimate": 0.5639551410751584,
+    "low": 0.560783147229362,
+    "high": 0.567050864282521
+  },
+  "priority_width_reduction_error_slow_random": {
+    "estimate": 0.025403746347222866,
+    "low": 0.02430244545798465,
+    "high": 0.026566475962853133
+  },
+  "priority_decision_gain_error_slow_random": {
+    "estimate": 0.012570842962631255,
+    "low": 0.0111723737186713,
+    "high": 0.014424442338533381
+  },
+  "priority_width_reduction_error_slow_oldest": {
+    "estimate": 0.019897218903589975,
+    "low": 0.018980683227871713,
+    "high": 0.02079288425170149
+  },
+  "priority_decision_gain_error_slow_oldest": {
+    "estimate": 0.010424789012816713,
+    "low": 0.009108220797732238,
+    "high": 0.01201340805807166
+  },
+  "priority_width_reduction_error_slow_none": {
+    "estimate": 0.07495757702451689,
+    "low": 0.07240870515538983,
+    "high": 0.07760879931824581
+  },
+  "priority_decision_gain_error_slow_none": {
+    "estimate": 0.03017481391837471,
+    "low": 0.027503504413548173,
+    "high": 0.032816641033373305
+  },
+  "priority_width_reduction_censored_random": {
+    "estimate": 0.04799457321921208,
+    "low": 0.045905240285404235,
+    "high": 0.04995565453197787
+  },
+  "priority_decision_gain_censored_random": {
+    "estimate": 0.021094445708333426,
+    "low": 0.018253250318955166,
+    "high": 0.024440144802591414
+  },
+  "priority_width_reduction_censored_oldest": {
+    "estimate": 0.026838223834399932,
+    "low": 0.02575217436161547,
+    "high": 0.0279437481343629
+  },
+  "priority_decision_gain_censored_oldest": {
+    "estimate": 0.013756173120725888,
+    "low": 0.012152976669853606,
+    "high": 0.015490867822932172
+  },
+  "priority_width_reduction_censored_none": {
+    "estimate": 0.13436406291416703,
+    "low": 0.1307616022316866,
+    "high": 0.13800783748653642
+  },
+  "priority_decision_gain_censored_none": {
+    "estimate": 0.043734815079497016,
+    "low": 0.03736732974760779,
+    "high": 0.05047108732806563
+  }
+}

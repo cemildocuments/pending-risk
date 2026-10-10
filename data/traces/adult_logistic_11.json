@@ -1,0 +1,11 @@
+{
+  "dataset": "adult",
+  "model": "logistic",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 16281,
+  "calibration_error": 0.1492399815753109,
+  "test_error": 0.1496222590749954,
+  "test_logloss": 0.3203191014332722,
+  "elapsed_seconds": 0.2530487079638988
+}

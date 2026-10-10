@@ -1,0 +1,11 @@
+{
+  "dataset": "bank",
+  "model": "logistic",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 14416,
+  "calibration_error": 0.05292975072839107,
+  "test_error": 0.4662180910099889,
+  "test_logloss": 0.7069740180080519,
+  "elapsed_seconds": 0.05186520901042968
+}

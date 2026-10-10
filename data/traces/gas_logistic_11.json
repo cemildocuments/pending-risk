@@ -1,0 +1,11 @@
+{
+  "dataset": "gas",
+  "model": "logistic",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 10474,
+  "calibration_error": 0.2546583850931677,
+  "test_error": 0.37998854305900326,
+  "test_logloss": 2.031867421038728,
+  "elapsed_seconds": 0.20267433300614357
+}

@@ -1,0 +1,11 @@
+{
+  "dataset": "gas",
+  "model": "mlp",
+  "seed": 11,
+  "backend": "mps",
+  "n_test": 10474,
+  "calibration_error": 0.2546583850931677,
+  "test_error": 0.3915409585640634,
+  "test_logloss": 1.31992947986105,
+  "elapsed_seconds": 0.7596561670070514
+}

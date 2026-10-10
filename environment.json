@@ -1,0 +1,20 @@
+{
+  "python": "3.12.1",
+  "operating_system": "Darwin",
+  "architecture": "arm64",
+  "cpu_cores": 12,
+  "memory_gb": 18,
+  "gpu_cores": 18,
+  "training_backend": "CPU estimators and Metal neural-network training",
+  "packages": {
+    "numpy": "1.26.3",
+    "scipy": "1.11.4",
+    "pandas": "2.2.1",
+    "scikit-learn": "1.4.0",
+    "torch": "2.4.1",
+    "requests": "2.31.0",
+    "matplotlib": "3.8.2"
+  },
+  "monitoring_arithmetic": "float64",
+  "canonical_trace_count": 32
+}

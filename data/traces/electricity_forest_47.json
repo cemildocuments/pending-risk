@@ -1,0 +1,11 @@
+{
+  "dataset": "electricity",
+  "model": "forest",
+  "seed": 47,
+  "backend": "cpu",
+  "n_test": 15860,
+  "calibration_error": 0.24661565626839319,
+  "test_error": 0.30050441361916774,
+  "test_logloss": 0.7058994830869147,
+  "elapsed_seconds": 2.8150935410521924
+}

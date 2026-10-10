@@ -1,0 +1,11 @@
+{
+  "dataset": "gas",
+  "model": "boosting",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 10474,
+  "calibration_error": 0.32919254658385094,
+  "test_error": 0.5016230666412068,
+  "test_logloss": 2.101737436331724,
+  "elapsed_seconds": 3.207075083977543
+}

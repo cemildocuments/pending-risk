@@ -1,0 +1,11 @@
+{
+  "dataset": "electricity",
+  "model": "logistic",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 15860,
+  "calibration_error": 0.32416127133608,
+  "test_error": 0.29401008827238334,
+  "test_logloss": 0.6881342565773988,
+  "elapsed_seconds": 0.03757262497674674
+}

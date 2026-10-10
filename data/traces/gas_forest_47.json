@@ -1,0 +1,11 @@
+{
+  "dataset": "gas",
+  "model": "forest",
+  "seed": 47,
+  "backend": "cpu",
+  "n_test": 10474,
+  "calibration_error": 0.2981366459627329,
+  "test_error": 0.4636242123353065,
+  "test_logloss": 1.5368668241104881,
+  "elapsed_seconds": 1.8133128340123221
+}

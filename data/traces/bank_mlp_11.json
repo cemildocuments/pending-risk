@@ -1,0 +1,11 @@
+{
+  "dataset": "bank",
+  "model": "mlp",
+  "seed": 11,
+  "backend": "mps",
+  "n_test": 14416,
+  "calibration_error": 0.05292975072839107,
+  "test_error": 0.23238068812430632,
+  "test_logloss": 8.299005887391559,
+  "elapsed_seconds": 2.185402959003113
+}

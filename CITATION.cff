@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the PendingRisk experiments."
+title: "PendingRisk: Anytime-Valid Risk Auditing with Pending Labels"
+type: software
+version: 1.0.0
+date-released: 2026-10-09
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    affiliation: "School of Computing, Georgia Southern University"
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+    email: "cemil@fairesresearch.org"
+keywords:
+  - anytime-valid inference
+  - risk monitoring
+  - selective feedback
+  - delayed labels
+  - randomized auditing
+abstract: "Reproducible bounded-loss monitoring experiments with selective randomized label requests and outcome-dependent label completion."

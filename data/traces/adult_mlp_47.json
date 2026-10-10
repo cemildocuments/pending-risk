@@ -1,0 +1,11 @@
+{
+  "dataset": "adult",
+  "model": "mlp",
+  "seed": 47,
+  "backend": "mps",
+  "n_test": 16281,
+  "calibration_error": 0.14401965300168892,
+  "test_error": 0.1504821571156563,
+  "test_logloss": 0.3243086076493464,
+  "elapsed_seconds": 1.8824867500225082
+}

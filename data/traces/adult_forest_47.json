@@ -1,0 +1,11 @@
+{
+  "dataset": "adult",
+  "model": "forest",
+  "seed": 47,
+  "backend": "cpu",
+  "n_test": 16281,
+  "calibration_error": 0.13588208198986643,
+  "test_error": 0.1369080523309379,
+  "test_logloss": 0.30517943939005004,
+  "elapsed_seconds": 2.9685647080186754
+}

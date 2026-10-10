@@ -1,0 +1,11 @@
+{
+  "dataset": "adult",
+  "model": "boosting",
+  "seed": 11,
+  "backend": "cpu",
+  "n_test": 16281,
+  "calibration_error": 0.12405957316136956,
+  "test_error": 0.12597506295682084,
+  "test_logloss": 0.27851537495281453,
+  "elapsed_seconds": 3.2149344580248
+}

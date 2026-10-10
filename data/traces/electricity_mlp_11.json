@@ -1,0 +1,11 @@
+{
+  "dataset": "electricity",
+  "model": "mlp",
+  "seed": 11,
+  "backend": "mps",
+  "n_test": 15860,
+  "calibration_error": 0.2878163625662154,
+  "test_error": 0.36513240857503154,
+  "test_logloss": 0.8927704895428433,
+  "elapsed_seconds": 2.0747524579055607
+}
